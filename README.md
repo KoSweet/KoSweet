@@ -12,6 +12,6 @@
 - 😄 You can talk with me about games 🎮, technologies 📱💻, table-tennis 🏓 and anime 🎥
 
 <h2> Connect with me </h2>
-<a href='https://mail.google.com/mail/?view=cm&fs=1&to=kksweet1999@gmail.com' style= 'padding:10px'><img src='images\Gmai.svg' width ='80'></a>
+<a href='https://mail.google.com/mail/?view=cm&fs=1&to=kksweet1999@gmail.com' style= 'padding:10px'><img src='https://github.com/KoSweet/KoSweet/blob/main/Images/Gmail.svg' width ='80'></a>
 <a href='https://www.kaggle.com/kosweet' style= 'padding:10px'><img src='images\Kaggle.png' width ='80'></a>
 <a href='https://www.linkedin.com/in/kaung-khant-kyaw-280350166/' style= 'padding:10px'><img src='images\LinkedIn.png' width ='80'></a>
