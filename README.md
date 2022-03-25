@@ -14,4 +14,4 @@
 <h2> Connect with me </h2>
 <a href='https://mail.google.com/mail/?view=cm&fs=1&to=kksweet1999@gmail.com' style= 'padding:10px'><img src='https://github.com/KoSweet/KoSweet/blob/main/Images/Gmail.svg' width ='80'></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://www.kaggle.com/kosweet' style= 'padding:10px'><img src='https://github.com/KoSweet/KoSweet/blob/main/Images/Kaggle.png' width ='80'></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://www.linkedin.com/in/kaung-khant-kyaw-280350166/'><img src='https://github.com/KoSweet/KoSweet/blob/main/Images/LinkedIn.png' width ='120'></a>
+<a href='https://www.linkedin.com/in/kaung-khant-kyaw-280350166/'><img src='https://github.com/KoSweet/KoSweet/blob/main/Images/new_LinkedIn.png' width ='50'></a>
