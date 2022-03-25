@@ -5,10 +5,13 @@
 <p>An AI engineer passionate about AI technolgies, I like exploring new things 🆕, creating and automating things, building pipelines and problem-solving ✅
 </p>
 
-- 🧑‍💼 I’m currently working as an AI Engineer.
+- 🧑‍💼 I’m currently working as an AI Engineer at Global Walkers.Inc
+
 - 💡 I’m passionate about AI technologies 🤖
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaung-khant-kyaw-280350166/)
+
 - 😄 You can talk with me about games 🎮, technologies 📱💻, table-tennis 🏓 and anime 🎥
 
 <h2> Connect with me </h2>
-<a></a>
+<a href='https://mail.google.com/mail/?view=cm&fs=1&to=kksweet1999@gmail.com' style= 'padding:10px'><img src='images\Gmai.svg' width ='80'></a>
+<a href='https://www.kaggle.com/kosweet' style= 'padding:10px'><img src='images//Kaggle.png' width ='80'></a>
+<a href='https://www.linkedin.com/in/kaung-khant-kyaw-280350166/' style= 'padding:10px'><img src='images/LinkedIn.png' width ='80'></a>
